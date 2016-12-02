@@ -1,20 +1,20 @@
 {
-  "name": "atom-jasmine",
-  "version": "1.0.0",
+  "name": "atom-jasmine-typescript",
+  "version": "1.0.1",
   "description": "Snippets for writing Jasmine specs easier in Atom.",
   "engines": {
     "atom": "*",
     "node": "*"
   },
   "homepage": {
-    "url": "https://github.com/zacharytamas/atom-jasmine/"
+    "url": "https://github.com/timmyg/atom-jasmine/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacharytamas/atom-jasmine.git"
+    "url": "https://github.com/timmyg/atom-jasmine.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zacharytamas/atom-jasmine/issues"
+    "url": "https://github.com/timmyg/atom-jasmine/issues"
   }
 }
