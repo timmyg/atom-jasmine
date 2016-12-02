@@ -7,14 +7,14 @@
     "node": "*"
   },
   "homepage": {
-    "url": "https://github.com/timmyg/atom-jasmine-typescript/"
+    "url": "https://github.com/timmyg/atom-jasmine/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/timmyg/atom-jasmine-typescript.git"
+    "url": "https://github.com/timmyg/atom-jasmine.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/timmyg/atom-jasmine-typescript/issues"
+    "url": "https://github.com/timmyg/atom-jasmine/issues"
   }
 }
