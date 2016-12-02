@@ -1,6 +1,6 @@
 {
   "name": "atom-jasmine-typescript",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Snippets for writing Jasmine specs easier in Atom.",
   "engines": {
     "atom": "*",
